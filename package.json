@@ -15,6 +15,7 @@
     "@types/clear": "^0.1.0",
     "@types/figlet": "^1.2.0",
     "@types/inquirer": "^7.3.0",
+    "nodemon": "^2.0.6",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   },
